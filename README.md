@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  - My github stats
+  <h3>My github stats</h3> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=javiergiraldo&count_private=true&show_icons=true&theme=radical)
 
@@ -13,6 +13,10 @@
 ###
 
 <div align="left">
+    <div align="center">
+      <h3>workplace technologies</h3>
+    </div>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="95" width="95" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="95" width="95" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="95" width="95" alt="bootstrap logo"  />
