@@ -3,6 +3,11 @@
   <h2 align="center"> 💾 Hi 🙋‍♂️, I’m Javier Giraldo 🖥 🙌</h2>
 
 ###
+<div align="center">
+  <a href="https://drive.google.com/uc?export=view&id=1am8p5RmsqJkxrSlpBUm5SapSvKKaAgZh"><img src="https://drive.google.com/uc?export=view&id=1am8p5RmsqJkxrSlpBUm5SapSvKKaAgZh" style="width: 650px; max-width: 100%; height: auto" />
+</div>
+ 
+###
 
 <div align="center">
   <h3>My GitHub Stats</h3> 
