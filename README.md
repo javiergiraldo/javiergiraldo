@@ -1,6 +1,6 @@
 ###
 
-  <h2 align="left">Hi 🙋‍♂️, I’m Javier Giraldo <br><br>💾 I’m a frontend developer and passionate about technology 🖥 🙌</h2>
+  <h2 align="center"> 💾 Hi 🙋‍♂️, I’m Javier Giraldo 🖥 🙌</h2>
 
 ###
 
@@ -45,10 +45,10 @@
 
 <div align="center">
       <div align="center">
-          <h3>Social Network</h3>
+          <h3>Social Networks</h3>
       </div>
-      
-  <a href="linkedin.com/in/javier-andrey-giraldo-rivera-3477271a0" target="_blank">
+
+  <a href="https://www.linkedin.com/in/javier-andrey-giraldo-rivera-3477271a0/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="Kappac#5101" target="_blank">
@@ -72,4 +72,5 @@
 </div>
 
 ###
+
 
