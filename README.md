@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <h3>My github stats</h3> 
+  <h3>My GitHub Stats</h3> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=javiergiraldo&count_private=true&show_icons=true&theme=radical)
 
@@ -14,7 +14,7 @@
 
 <div align="left">
     <div align="center">
-      <h3>workplace technologies</h3>
+      <h3>Workplace Technologies</h3>
     </div>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="95" width="95" alt="html5 logo"  />
@@ -29,7 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="95" width="95" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="95" width="95" alt="atom logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="95" width="95" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="95" width="95" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="95" height="95" alt="arduino logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="95" width="95" alt="laravel logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="95" width="95" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="95" width="95" alt="composer logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="95" width="95" alt="git logo"  />
