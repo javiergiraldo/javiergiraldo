@@ -1,4 +1,6 @@
-<h2 align="left">Hi 🙋‍♂️, I’m Javier Giraldo <br><br>💾 I’m a frontend developer and passionate about technology 🖥 🙌</h2>
+###
+
+  <h2 align="left">Hi 🙋‍♂️, I’m Javier Giraldo <br><br>💾 I’m a frontend developer and passionate about technology 🖥 🙌</h2>
 
 ###
 
@@ -12,7 +14,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
     <div align="center">
       <h3>Workplace Technologies</h3>
     </div>
@@ -37,6 +39,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="95" width="95" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="95" width="95" alt="illustrator logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="95" width="95" alt="photoshop logo"  />
+</div>
+
+###
+
+<div align="center">
+      <div align="center">
+          <h3>Social Network</h3>
+      </div>
+      
+  <a href="linkedin.com/in/javier-andrey-giraldo-rivera-3477271a0" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="Kappac#5101" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="@JavierGiraldo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
