@@ -101,7 +101,9 @@
 
 <div align="center">
   <h3>My Website</h3>
-  <iframe src="https://kappak.dev/" width="80%" height="500" frameborder="0" allowfullscreen></iframe>
+  <a href="https://kappak.dev/">
+    <img src="https://api.microlink.io?url=https://kappak.dev/" alt="Vista previa de mi página web" />
+  </a>
 </div>
 
 ###
