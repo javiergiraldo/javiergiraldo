@@ -17,15 +17,15 @@
   <table width="100%" style="border: none; background: transparent;">
     <tr>
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=javiergiraldo&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" style="width:100%;" />
+        <img src="https://anuraghazra.vercel.app/api?username=javiergiraldo&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" style="width:100%;" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiergiraldo&layout=compact&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8" style="width:100%;" />
+        <img src="https://anuraghazra.vercel.app/api/top-langs/?username=javiergiraldo&layout=compact&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8" style="width:100%;" alt="Top Languages" />
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javiergiraldo&theme=radical&hide_border=true&bg_color=0d1117" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javiergiraldo&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="Streak Stats" />
 </div>
 
 <br/><br/>
@@ -94,7 +94,8 @@
 <br/>
 
 <div align="center">
-  <img height="220" src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" style="border-radius: 10px;" />
+  <img height="200" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="border-radius: 10px; margin-right: 10px;" alt="Retro PC GIF" />
+  <img height="200" src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" style="border-radius: 10px; margin-left: 10px;" alt="Coding GIF" />
 </div>
 
 <br/>
@@ -102,6 +103,6 @@
 <div align="center">
   <h3>🌐 My Digital Corner</h3>
   <a href="https://kappak.dev/">
-    <img src="https://api.microlink.io?url=https://kappak.dev/&screenshot=true&meta=false&embed=screenshot.url" width="600" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5);" />
+    <img src="https://api.microlink.io?url=https://kappak.dev/&screenshot=true&meta=false&embed=screenshot.url" width="600" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5);" alt="Website Preview" />
   </a>
 </div>
