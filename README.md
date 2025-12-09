@@ -12,32 +12,20 @@
 
 <br/><br/>
 
-<h2 align="center">🏆 GitHub Achievements & Analytics</h2>
+<h2 align="center">📊 GitHub Analytics Overview</h2>
 <div align="center">
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophies">
-    <img src="https://github-profile-trophies.vercel.app/?username=javiergiraldo&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-  
-  <br/><br/>
 
   <p>
-    <a href="https://github.com/javiergiraldo?tab=followers">
-      <img src="https://img.shields.io/github/followers/javiergiraldo?style=for-the-badge&logo=github&color=0d1117&labelColor=30363d" alt="Followers" />
-    </a>
+    <img src="https://img.shields.io/github/followers/javiergiraldo?style=for-the-badge&logo=github&color=238636&labelColor=0d1117" alt="Followers" />
     &nbsp;&nbsp;
-    <a href="https://github.com/javiergiraldo?tab=repositories">
-      <img src="https://img.shields.io/github/public-repo/javiergiraldo?style=for-the-badge&logo=github&color=0d1117&labelColor=30363d&label=Repositories" alt="Public Repos" />
-    </a>
+    <img src="https://img.shields.io/github/stars/javiergiraldo?style=for-the-badge&logo=github&color=e3b341&labelColor=0d1117" alt="Total Stars" />
     &nbsp;&nbsp;
-    <a href="https://github.com/javiergiraldo?tab=stars">
-      <img src="https://img.shields.io/github/stars/javiergiraldo?style=for-the-badge&logo=github&color=0d1117&labelColor=30363d" alt="Stars" />
-    </a>
+    <img src="https://img.shields.io/github/public-repo/javiergiraldo?style=for-the-badge&logo=github&color=238636&labelColor=0d1117&label=Public%20Repos" alt="Public Repos" />
   </p>
 
-  <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiergiraldo&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8&exclude_repo=github-readme-stats" height="170" alt="Languages" />
-  </div>
+  <br/>
+
+  <img src="https://metrics.lecoq.io/javiergiraldo?template=classic&base=header%2C+activity%2C+community%2C+repositories%2C+metadata&base.indepth=false&base.hireable=true&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.details=bytes-size%2C+percentage&config.timezone=America%2FBogota" alt="Javier Giraldo's GitHub Metrics" style="border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.5);" />
 
 </div>
 
