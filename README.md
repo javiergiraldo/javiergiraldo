@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://drive.google.com/uc?export=view&id=1am8p5RmsqJkxrSlpBUm5SapSvKKaAgZh">
-    <img src="https://drive.google.com/uc?export=view&id=1am8p5RmsqJkxrSlpBUm5SapSvKKaAgZh" width="700" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0,0,0,0.8); border: 2px solid #30363d;" />
+    <img src="https://drive.google.com/uc?export=view&id=1am8p5RmsqJkxrSlpBUm5SapSvKKaAgZh" width="700" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0,0,0,0.8); border: 2px solid #30363d;" alt="Profile Banner" />
   </a>
 </div>
 
@@ -17,15 +17,15 @@
   <table width="100%" style="border: none; background: transparent;">
     <tr>
       <td width="50%" align="center" style="border: none;">
-        <img src="https://anuraghazra.vercel.app/api?username=javiergiraldo&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" style="width:100%;" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=javiergiraldo&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true&hide=issues" style="width:100%; max-width:500px;" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center" style="border: none;">
-        <img src="https://anuraghazra.vercel.app/api/top-langs/?username=javiergiraldo&layout=compact&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8" style="width:100%;" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiergiraldo&layout=compact&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8&exclude_repo=github-readme-stats" style="width:100%; max-width:500px;" alt="Top Languages" />
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javiergiraldo&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javiergiraldo&theme=radical&hide_border=true&bg_color=0d1117&currStreakLabel=33EBFF&fire=33EBFF" height="150" alt="Streak Stats" />
 </div>
 
 <br/><br/>
@@ -33,45 +33,19 @@
 <h2 align="center">🛠️ Workplace Technologies</h2>
 <div align="center">
 
+  ### Programming Languages
   <div style="margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="75" width="75" style="margin: 8px;" alt="python"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="75" width="75" style="margin: 8px;" alt="js"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="75" width="75" style="margin: 8px;" alt="ts"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="75" width="75" style="margin: 8px;" alt="php"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="75" width="75" style="margin: 8px;" alt="c"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="75" width="75" style="margin: 8px;" alt="c++"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="75" width="75" style="margin: 8px;" alt="arduino"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="75" width="75" style="margin: 8px;" alt="node"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="75" width="75" style="margin: 8px;" alt="nest"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="75" width="75" style="margin: 8px;" alt="laravel"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" height="75" width="75" style="margin: 8px;" alt="livewire"/>
+    <img src="https://skillicons.dev/icons?i=python,js,ts,php,c,cpp,arduino" style="margin: 8px;" alt="Programming Languages" />
   </div>
 
+  ### Frameworks & Libraries
   <div style="margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="75" width="75" style="margin: 8px;" alt="html5"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="75" width="75" style="margin: 8px;" alt="css3"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="75" width="75" style="margin: 8px;" alt="react"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" height="75" width="75" style="margin: 8px;" alt="angular"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="75" width="75" style="margin: 8px;" alt="bootstrap"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="75" width="75" style="margin: 8px;" alt="tailwind"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="75" width="75" style="margin: 8px;" alt="tailwind_icon"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="75" width="75" style="margin: 8px;" alt="vite"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="75" width="75" style="margin: 8px;" alt="streamlit"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg" height="75" width="75" style="margin: 8px;" alt="streamlit_text"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,react,angular,bootstrap,tailwind,vite" style="margin: 8px;" alt="Frameworks & Libraries" />
   </div>
 
+  ### Databases & Tools
   <div style="margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="75" width="75" style="margin: 8px;" alt="postgres"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="75" width="75" style="margin: 8px;" alt="mysql"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="75" width="75" style="margin: 8px;" alt="mongo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="75" width="75" style="margin: 8px;" alt="git"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="75" width="75" style="margin: 8px;" alt="npm"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" height="75" width="75" style="margin: 8px;" alt="nodemon"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="75" width="75" style="margin: 8px;" alt="composer"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="75" width="75" style="margin: 8px;" alt="postman"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="75" width="75" style="margin: 8px;" alt="linux"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="75" width="75" style="margin: 8px;" alt="vscode"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="75" width="75" style="margin: 8px;" alt="atom"/>
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,git,npm,postman,linux,vscode" style="margin: 8px;" alt="Databases & Tools" />
   </div>
 
 </div>
@@ -80,15 +54,20 @@
 
 <div align="center">
   <h3>📫 Connect with me</h3>
-  <a href="https://www.linkedin.com/in/javier-andrey-giraldo-rivera-3477271a0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com/@Kappac#5101" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://t.me/JavierGiraldo" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+  <div>
+    <a href="https://www.linkedin.com/in/javier-andrey-giraldo-rivera-3477271a0/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://discord.com/users/5101" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    <a href="https://t.me/JavierGiraldo" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="https://github.com/javiergiraldo" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </div>
 </div>
 
 <br/>
@@ -103,6 +82,13 @@
 <div align="center">
   <h3>🌐 My Digital Corner</h3>
   <a href="https://kappak.dev/">
-    <img src="https://api.microlink.io?url=https://kappak.dev/&screenshot=true&meta=false&embed=screenshot.url" width="600" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5);" alt="Website Preview" />
+    <img src="https://api.microlink.io?url=https://kappak.dev/&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=5000" width="600" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5);" alt="Website Preview" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📈 Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javiergiraldo&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&point=33EBFF&area_color=33EBFF20" alt="Contribution Graph" />
 </div>
