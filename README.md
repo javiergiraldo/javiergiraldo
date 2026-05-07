@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=33EBFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F,+I%E2%80%99m+Javier+Giraldo;Software+Developer+%F0%9F%96%A5%EF%B8%8F;Welcome+to+my+Ecosystem" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=33EBFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F,+I%E2%80%99m+kappak;Software+Architect+%26+DevSecOps+%F0%9F%96%A5%EF%B8%8F;Welcome+to+my+Ecosystem" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,7 +14,6 @@
 
 <h2 align="center">📊 GitHub Analytics Overview</h2>
 <div align="center">
-
   <p>
     <img src="https://img.shields.io/github/followers/javiergiraldo?style=for-the-badge&logo=github&color=238636&labelColor=0d1117" alt="Followers" />
     &nbsp;&nbsp;
@@ -22,11 +21,8 @@
     &nbsp;&nbsp;
     <img src="https://img.shields.io/github/public-repo/javiergiraldo?style=for-the-badge&logo=github&color=238636&labelColor=0d1117&label=Public%20Repos" alt="Public Repos" />
   </p>
-
   <br/>
-
   <img src="https://metrics.lecoq.io/javiergiraldo?template=classic&base=header%2C+activity%2C+community%2C+repositories%2C+metadata&base.indepth=false&base.hireable=true&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.details=bytes-size%2C+percentage&config.timezone=America%2FBogota" alt="Javier Giraldo's GitHub Metrics" style="border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.5);" />
-
 </div>
 
 <br/><br/>
@@ -34,47 +30,39 @@
 <h2 align="center">🛠️ Workplace Technologies</h2>
 <div align="center">
 
+  <h3 style="color: #33EBFF;">🛡️ Cybersecurity & Ethical Hacking</h3>
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="65" width="65" alt="kali"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/OSINT-%23121011.svg?style=for-the-badge&logo=osint&logoColor=white" height="40" alt="osint"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/OWASP-%23373331.svg?style=for-the-badge&logo=OWASP&logoColor=white" height="40" alt="owasp"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Metasploit-%232a4e6a.svg?style=for-the-badge&logo=metasploit&logoColor=white" height="40" alt="metasploit"/>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wireshark/wireshark-original.svg" height="65" width="65" alt="wireshark"/>
+  </p>
+
   <h3 style="color: #33EBFF;">⚡ Backend & Core</h3>
-  <div style="margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="65" width="65" style="margin: 8px;" alt="python"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="65" width="65" style="margin: 8px;" alt="node"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="65" width="65" style="margin: 8px;" alt="nest"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="65" width="65" style="margin: 8px;" alt="php"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="65" width="65" style="margin: 8px;" alt="laravel"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" height="65" width="65" style="margin: 8px;" alt="livewire"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="65" width="65" style="margin: 8px;" alt="c"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="65" width="65" style="margin: 8px;" alt="c++"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="65" width="65" style="margin: 8px;" alt="arduino"/>
-  </div>
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="65" width="65" alt="python"/>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="65" width="65" alt="node"/>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="65" width="65" alt="nest"/>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="65" width="65" alt="php"/>
+  </p>
 
-  <h3 style="color: #33EBFF;">🎨 Frontend & UI</h3>
-  <div style="margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" width="65" style="margin: 8px;" alt="js"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="65" width="65" style="margin: 8px;" alt="ts"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="65" width="65" style="margin: 8px;" alt="react"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" height="65" width="65" style="margin: 8px;" alt="angular"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" width="65" style="margin: 8px;" alt="html5"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="65" width="65" style="margin: 8px;" alt="css3"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="65" width="65" style="margin: 8px;" alt="tailwind"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="65" width="65" style="margin: 8px;" alt="vite"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="65" width="65" style="margin: 8px;" alt="bootstrap"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="65" width="65" style="margin: 8px;" alt="streamlit"/>
-  </div>
+  <h3 style="color: #33EBFF;">🎨 Frontend & UI (Decoupled Architecture)</h3>
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" width="65" alt="js"/>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="65" width="65" alt="react"/>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="65" width="65" alt="vite"/>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="65" width="65" alt="tailwind"/>
+  </p>
 
-  <h3 style="color: #33EBFF;">💾 Database, DevOps & Tools</h3>
-  <div style="margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="65" width="65" style="margin: 8px;" alt="postgres"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="65" width="65" style="margin: 8px;" alt="mysql"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="65" width="65" style="margin: 8px;" alt="mongo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" width="65" style="margin: 8px;" alt="git"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="65" width="65" style="margin: 8px;" alt="npm"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="65" width="65" style="margin: 8px;" alt="composer"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" height="65" width="65" style="margin: 8px;" alt="nodemon"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="65" width="65" style="margin: 8px;" alt="postman"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="65" width="65" style="margin: 8px;" alt="linux"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="65" width="65" style="margin: 8px;" alt="vscode"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="65" width="65" style="margin: 8px;" alt="atom"/>
-  </div>
+  <h3 style="color: #33EBFF;">💾 Database & Infrastructure</h3>
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="65" width="65" alt="mysql"/>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="65" width="65" alt="mongo"/>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" width="65" alt="git"/>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="65" width="65" alt="linux"/>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="65" width="65" alt="postman"/>
+  </p>
 
 </div>
 
@@ -85,7 +73,7 @@
   <a href="https://www.linkedin.com/in/javier-andrey-giraldo-rivera-3477271a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://discord.com/@Kappac#5101" target="_blank">
+  <a href="https://discord.com/@kappak#5101" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://t.me/JavierGiraldo" target="_blank">
