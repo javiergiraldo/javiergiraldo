@@ -32,36 +32,22 @@
 
   <h3 style="color: #33EBFF;">🛡️ Cybersecurity & Ethical Hacking</h3>
   <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="65" width="65" alt="kali"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/OSINT-%23121011.svg?style=for-the-badge&logo=osint&logoColor=white" height="40" alt="osint"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/OWASP-%23373331.svg?style=for-the-badge&logo=OWASP&logoColor=white" height="40" alt="owasp"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Metasploit-%232a4e6a.svg?style=for-the-badge&logo=metasploit&logoColor=white" height="40" alt="metasploit"/>&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wireshark/wireshark-original.svg" height="65" width="65" alt="wireshark"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="65" width="65" alt="kali"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/OSINT-%23121011.svg?style=for-the-badge&logo=osint&logoColor=white" height="40" alt="osint"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/OWASP-%23373331.svg?style=for-the-badge&logo=OWASP&logoColor=white" height="40" alt="owasp"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Metasploit-%232a4e6a.svg?style=for-the-badge&logo=metasploit&logoColor=white" height="40" alt="metasploit"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" height="40" alt="wireshark"/>
   </p>
 
   <h3 style="color: #33EBFF;">⚡ Backend & Core</h3>
   <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="65" width="65" alt="python"/>&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="65" width="65" alt="node"/>&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="65" width="65" alt="nest"/>&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="65" width="65" alt="php"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="65" width="65" alt="python"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="65" width="65" alt="node"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="65" width="65" alt="nest"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="65" width="65" alt="php"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="65" width="65" alt="laravel"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" height="65" width="65" alt="livewire"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="65" width="65" alt="c"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="65" width="65" alt="c++"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="65" width="65" alt="arduino"/>
   </p>
 
   <h3 style="color: #33EBFF;">🎨 Frontend & UI (Decoupled Architecture)</h3>
   <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" width="65" alt="js"/>&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="65" width="65" alt="react"/>&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="65" width="65" alt="vite"/>&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="65" width="65" alt="tailwind"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" width="65" alt="js"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="65" width="65" alt="ts"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="65" width="65" alt="react"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" height="65" width="65" alt="angular"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" width="65" alt="html5"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="65" width="65" alt="css3"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="65" width="65" alt="tailwind"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="65" width="65" alt="vite"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="65" width="65" alt="bootstrap"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="65" width="65" alt="streamlit"/>
   </p>
 
-  <h3 style="color: #33EBFF;">💾 Database & Infrastructure</h3>
+  <h3 style="color: #33EBFF;">💾 Database, DevOps & Tools</h3>
   <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="65" width="65" alt="mysql"/>&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="65" width="65" alt="mongo"/>&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" width="65" alt="git"/>&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="65" width="65" alt="linux"/>&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="65" width="65" alt="postman"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="65" width="65" alt="postgres"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="65" width="65" alt="mysql"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="65" width="65" alt="mongo"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" width="65" alt="git"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="65" width="65" alt="npm"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="65" width="65" alt="composer"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" height="65" width="65" alt="nodemon"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="65" width="65" alt="postman"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="65" width="65" alt="linux"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="65" width="65" alt="vscode"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="65" width="65" alt="atom"/>
   </p>
 
 </div>
