@@ -66,7 +66,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="65" style="margin: 8px;" alt="streamlit"/>
   </div>
 
-  <h3 style="color: #33EBFF;">💾 Database, DevOps & Tools</h3>
+  <h3 style="color: #33EBFF;">💾 Database & Development Tools</h3>
   <div style="margin-bottom: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="65" style="margin: 8px;" alt="postgres"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="65" style="margin: 8px;" alt="mysql"/>
@@ -79,6 +79,17 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="65" style="margin: 8px;" alt="linux"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="65" style="margin: 8px;" alt="vscode"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="65" style="margin: 8px;" alt="atom"/>
+  </div>
+
+  <h3 style="color: #33EBFF;">☁️ DevOps, Virtualization & Cloud Infrastructure</h3>
+  <div style="margin-bottom: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original.svg" height="65" style="margin: 8px;" alt="proxmox"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg" height="65" style="margin: 8px;" alt="portainer"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="65" style="margin: 8px;" alt="docker"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="65" style="margin: 8px;" alt="kubernetes"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="65" style="margin: 8px;" alt="nginx"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="65" style="margin: 8px;" alt="redis"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="65" style="margin: 8px;" alt="githubactions"/>
   </div>
 
 </div>
