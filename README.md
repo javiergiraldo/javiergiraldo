@@ -52,9 +52,7 @@
     <img src="https://skillicons.dev/icons?i=c" height="65" style="margin: 8px;" alt="C" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="65" style="margin: 8px;" alt="c++"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="65" style="margin: 8px;" alt="arduino"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="65" style="margin: 8px;" alt="fastapi"/>
   </div>
-
   <h3 style="color: #33EBFF;">🎨 Frontend & UI (Decoupled Architecture)</h3>
   <div style="margin-bottom: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" style="margin: 8px;" alt="js"/>
