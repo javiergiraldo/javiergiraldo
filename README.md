@@ -42,14 +42,17 @@
   <h3 style="color: #33EBFF;">⚡ Backend & Core</h3>
   <div style="margin-bottom: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="65" style="margin: 8px;" alt="python"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="65" style="margin: 8px;" alt="fastapi"/>
+    <img src="https://skillicons.dev/icons?i=django" height="65" alt="Django" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="65" style="margin: 8px;" alt="node"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="65" style="margin: 8px;" alt="nest"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="65" style="margin: 8px;" alt="php"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="65" style="margin: 8px;" alt="laravel"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" height="65" style="margin: 8px;" alt="livewire"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="65" style="margin: 8px;" alt="c"/>
+    <img src="https://skillicons.dev/icons?i=c" height="62" style="margin: 8px;" alt="C" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="65" style="margin: 8px;" alt="c++"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="65" style="margin: 8px;" alt="arduino"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="65" style="margin: 8px;" alt="fastapi"/>
   </div>
 
   <h3 style="color: #33EBFF;">🎨 Frontend & UI (Decoupled Architecture)</h3>
@@ -90,6 +93,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="65" style="margin: 8px;" alt="nginx"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="65" style="margin: 8px;" alt="redis"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="65" style="margin: 8px;" alt="githubactions"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="65" style="margin: 8px;" alt="cloudflare"/>
   </div>
 
 </div>
