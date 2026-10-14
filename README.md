@@ -49,7 +49,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="65" style="margin: 8px;" alt="php"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="65" style="margin: 8px;" alt="laravel"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" height="65" style="margin: 8px;" alt="livewire"/>
-    <img src="https://skillicons.dev/icons?i=c" height="62" style="margin: 8px;" alt="C" />
+    <img src="https://skillicons.dev/icons?i=c" height="65" style="margin: 8px;" alt="C" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="65" style="margin: 8px;" alt="c++"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="65" style="margin: 8px;" alt="arduino"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="65" style="margin: 8px;" alt="fastapi"/>
